@@ -1,0 +1,18 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+h1{
+  font-size: 50px;
+}
+.ruhul{
+  color: orange;
+}
+.sec1{
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.sec1 img{
+  width: 100%;
+}
